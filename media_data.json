@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "type": "image",
+    "title": "Coastal Cliff Aerial",
+    "lat": 34.0195,
+    "lon": -118.4912,
+    "timestamp": "2024-12-01 14:32:00",
+    "altitude": 120,
+    "description": "Stunning aerial view of coastal cliffs at sunset",
+    "filepath": null
+  },
+  {
+    "id": 2,
+    "type": "video",
+    "title": "Downtown Flyover",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "timestamp": "2024-12-03 10:15:00",
+    "altitude": 200,
+    "description": "Cinematic drone flyover of downtown Los Angeles",
+    "filepath": null
+  },
+  {
+    "id": 3,
+    "type": "image",
+    "title": "project Khisba",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "timestamp": "2025-12-18 12:59:09",
+    "altitude": 100,
+    "description": "cc",
+    "filepath": "uploads/8ca7062b.png"
+  },
+  {
+    "id": 4,
+    "type": "image",
+    "title": "cc",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "timestamp": "2025-12-18 13:11:26",
+    "altitude": 100,
+    "description": "cc",
+    "filepath": "uploads/11f63950.png"
+  },
+  {
+    "id": 5,
+    "type": "image",
+    "title": "cc",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "timestamp": "2025-12-18 13:12:42",
+    "altitude": 100,
+    "description": "cc",
+    "filepath": "uploads/24c450bd.png"
+  },
+  {
+    "id": 6,
+    "type": "image",
+    "title": "cc",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "timestamp": "2025-12-18 13:26:12",
+    "altitude": 100,
+    "description": "ccc",
+    "filepath": "uploads/dced404a.png"
+  },
+  {
+    "id": 7,
+    "type": "image",
+    "title": "cc",
+    "lat": 34.0522,
+    "lon": -166.2437,
+    "timestamp": "2025-12-18 13:27:08",
+    "altitude": 100,
+    "description": "ccccc",
+    "filepath": "uploads/f87d9f03.png"
+  },
+  {
+    "id": 8,
+    "type": "video",
+    "title": "bbb",
+    "lat": 33.0522,
+    "lon": -118.2437,
+    "timestamp": "2025-12-18 13:28:57",
+    "altitude": 100,
+    "description": "bb",
+    "filepath": "uploads/b9c41b89.mp4"
+  }
+]

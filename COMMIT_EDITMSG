@@ -1,0 +1,10 @@
+Remove login prompt for admin media uploads
+
+Delete the st.info message prompting admin login from the UI.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 5c8c4420-09d2-4e76-8dee-3f92f2fedc61
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: f58f2f97-7883-4e9f-86ec-0eb0598370db
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/d16efd43-5886-4dc5-af0a-29ca2b244f58/5c8c4420-09d2-4e76-8dee-3f92f2fedc61/mCPMwA5
+Replit-Helium-Checkpoint-Created: true
